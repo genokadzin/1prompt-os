@@ -157,7 +157,7 @@ Supabase Edge Functions have a maximum execution time of 150 seconds. The full m
 4. Set environment variables in Trigger.dev Dashboard → Environment Variables:
    - `SUPABASE_URL`
    - `SUPABASE_SERVICE_ROLE_KEY`
-5. Clone this repo, run `npm install`, then deploy with `npx trigger.dev@latest deploy`
+5. Clone this repo, run `npm install` from the root (not from `frontend/`), then deploy with `npx trigger.dev@latest deploy`
 
 For local development: `npx trigger.dev@latest dev`
 
@@ -254,7 +254,7 @@ All tasks use the retry config in `trigger.config.ts`:
 
 Import the GHL snapshot into your sub-account. The snapshot contains the pipeline structure, automation workflows, and webhook triggers pre-configured.
 
-The snapshot link is available separately in the course resources.
+The snapshot link is available on the course page.
 
 ### Webhook Trigger
 
@@ -322,7 +322,7 @@ At minimum `Message_1` must be present. Trigger.dev validates this before forwar
 
 ### Workflow Files
 
-The n8n workflow JSON files are shared separately in the course resources. There are separate workflows for:
+The n8n workflow JSON files are included in this repo under `frontend/public/workflows/`. There are separate workflows for:
 - Text setter (standard SMS/DM replies)
 - Appointment booking setter
 - Voice setter
@@ -408,7 +408,7 @@ The dashboard provides:
 
 The Lovable project must be connected to your platform Supabase project. All Supabase Edge Functions are deployed from Lovable.
 
-The Lovable project source is shared separately — it is not included in this repo.
+The frontend source is included in this repo under `frontend/`. It contains the full React app, all Supabase Edge Functions (`frontend/supabase/functions/`), and all SQL migrations (`frontend/supabase/migrations/`).
 
 ---
 
