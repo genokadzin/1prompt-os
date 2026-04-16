@@ -103,9 +103,9 @@ See [SETUP_OVERVIEW.md](./SETUP_OVERVIEW.md) for the full map.
 
 This repo gives you the complete source code and database schema. It does not walk you through how to configure each service, wire the webhooks, structure your GHL sub-account, build your n8n workflows, or set up the Lovable frontend.
 
-If you want it fully installed and running — that's what we do.
+If you want it fully installed and running — that's what we do. We deploy, debug, monitor, and report on the setters so you don't have to.
 
-**→ [Book a setup call](https://1prompt.io)**
+**→ [Learn about our fully managed setter service](https://us.1prompt.com/widget/bookings/1prompt-clarity-sessionich4ko)**
 
 ---
 
