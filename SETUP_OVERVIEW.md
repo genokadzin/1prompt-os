@@ -605,4 +605,4 @@ The fully managed service includes:
 - Model and workflow updates as AI capabilities improve
 - Reporting on setter performance
 
-**→ [Learn about our fully managed setter service](https://us.1prompt.com/widget/bookings/1prompt-clarity-sessionich4ko)**
+**→ [Learn about our fully managed setter service](https://us.1prompt.com/widget/bookings/1prompt-setter)**

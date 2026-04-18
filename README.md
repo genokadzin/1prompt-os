@@ -137,7 +137,7 @@ This repo gives you the complete source code, all Edge Functions, database schem
 
 If you want it fully installed and running — we deploy, debug, monitor, and report on the setters so you don't have to.
 
-**→ [Learn about our fully managed setter service](https://us.1prompt.com/widget/bookings/1prompt-clarity-sessionich4ko)**
+**→ [Learn about our fully managed setter service](https://us.1prompt.com/widget/bookings/1prompt-setter)**
 
 ---
 
